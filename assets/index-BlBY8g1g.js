@@ -126,8 +126,8 @@
                 </div>
               </div>
               <div class="prot-checks">
-                <label class="prot-check"><input type="checkbox" id="vc-habeas"><span>Autorizo el <a href="#">tratamiento de mis datos personales</a> y acepto la <a href="#">política de privacidad.</a></span></label>
-                <label class="prot-check"><input type="checkbox" id="vc-sms"><span>Autorizo el envío de comunicaciones por SMS y correo electrónico.</span></label>
+                <label class="prot-check"><input type="checkbox" id="vc-habeas" checked><span>Autorizo el <a href="#">tratamiento de mis datos personales</a> y acepto la <a href="#">política de privacidad.</a></span></label>
+                <label class="prot-check"><input type="checkbox" id="vc-sms" checked><span>Autorizo el envío de comunicaciones por SMS y correo electrónico.</span></label>
               </div>
             </div>
 
@@ -773,9 +773,9 @@
 
               <!-- Checks -->
               <div class="pf-checks" style="width:100%">
-                <label class="pf-check"><input type="checkbox" class="pf-check__input"><span>Acepto los <a href="#" style="color:#038450;font-weight:700">Términos y Condiciones</a> del Seguro Vida Protección Créditos.</span></label>
-                <label class="pf-check"><input type="checkbox" class="pf-check__input"><span>Doy mi consentimiento para firmar electrónicamente la solicitud del seguro.</span></label>
-                <label class="pf-check"><input type="checkbox" class="pf-check__input"><span>Autorizo a Seguros Bolívar a debitar automáticamente el pago de mi póliza.</span></label>
+                <label class="pf-check"><input type="checkbox" class="pf-check__input" checked><span>Acepto los <a href="#" style="color:#038450;font-weight:700">Términos y Condiciones</a> del Seguro Vida Protección Créditos.</span></label>
+                <label class="pf-check"><input type="checkbox" class="pf-check__input" checked><span>Doy mi consentimiento para firmar electrónicamente la solicitud del seguro.</span></label>
+                <label class="pf-check"><input type="checkbox" class="pf-check__input" checked><span>Autorizo a Seguros Bolívar a debitar automáticamente el pago de mi póliza.</span></label>
               </div>
             </div>
           </div>
