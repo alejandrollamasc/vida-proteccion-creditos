@@ -78,7 +78,7 @@
               <div class="prot-field">
                 <label class="prot-field__label">Tipo de documento</label>
                 <div class="prot-field__input">
-                  <img src="/vida-proteccion-creditos/Iconos/Name-icon (5).png" alt="" class="prot-icon prot-icon--field">
+                  <img src="/vida-proteccion-creditos/Iconos/Name-icon (5).svg" alt="" class="prot-icon prot-icon--field">
                   <select id="vc-doc-type" style="flex:1;border:none;outline:none;font-family:var(--prot-font);font-size:16px;background:transparent;">
                     <option value="CC">Cédula de ciudadanía</option>
                     <option value="CE">Cédula de extranjería</option>
@@ -89,14 +89,14 @@
               <div class="prot-field">
                 <label class="prot-field__label">Número de documento</label>
                 <div class="prot-field__input">
-                  <img src="/vida-proteccion-creditos/Iconos/Name-icon (5).png" alt="" class="prot-icon prot-icon--field">
+                  <img src="/vida-proteccion-creditos/Iconos/Name-icon (5).svg" alt="" class="prot-icon prot-icon--field">
                   <input type="text" id="vc-doc-number" placeholder="Ej: 1032508877">
                 </div>
               </div>
               <div class="prot-field">
                 <label class="prot-field__label">Nombre completo</label>
                 <div class="prot-field__input">
-                  <img src="/vida-proteccion-creditos/Iconos/user.png" alt="" class="prot-icon prot-icon--field">
+                  <img src="/vida-proteccion-creditos/Iconos/user.svg" alt="" class="prot-icon prot-icon--field">
                   <input type="text" id="vc-name" placeholder="Simón Andrés Bolívar Libertador">
                 </div>
               </div>
@@ -107,21 +107,21 @@
               <div class="prot-field">
                 <label class="prot-field__label">Número de celular</label>
                 <div class="prot-field__input">
-                  <img src="/vida-proteccion-creditos/Iconos/Name-icon (3).png" alt="" class="prot-icon prot-icon--field">
+                  <img src="/vida-proteccion-creditos/Iconos/Name-icon (3).svg" alt="" class="prot-icon prot-icon--field">
                   <input type="tel" id="vc-phone" placeholder="3103025462">
                 </div>
               </div>
               <div class="prot-field">
                 <label class="prot-field__label">Correo electrónico</label>
                 <div class="prot-field__input">
-                  <img src="/vida-proteccion-creditos/Iconos/Name-icon (4).png" alt="" class="prot-icon prot-icon--field">
+                  <img src="/vida-proteccion-creditos/Iconos/Name-icon (4).svg" alt="" class="prot-icon prot-icon--field">
                   <input type="email" id="vc-email" placeholder="tucorreo@email.com">
                 </div>
               </div>
               <div class="prot-field">
                 <label class="prot-field__label">Fecha de nacimiento</label>
                 <div class="prot-field__input">
-                  <img src="/vida-proteccion-creditos/Iconos/calendar-day.png" alt="" class="prot-icon prot-icon--field">
+                  <img src="/vida-proteccion-creditos/Iconos/calendar-day.svg" alt="" class="prot-icon prot-icon--field">
                   <input type="date" id="vc-birthdate">
                 </div>
               </div>
@@ -148,21 +148,21 @@
         <div class="prot-pricing__cards">
           <div class="prot-card" style="height:auto;cursor:default">
             <div class="prot-card__price" style="gap:12px">
-              <img src="/vida-proteccion-creditos/Iconos/shield-dog.png" alt="" style="width:40px;height:40px">
+              <img src="/vida-proteccion-creditos/Iconos/shield-dog.svg" alt="" style="width:40px;height:40px">
               <span class="prot-card__title" style="font-size:18px">Cubre el 100% del saldo</span>
               <span class="prot-card__period">Si falleces, el seguro paga tu deuda al banco. Tu familia queda libre.</span>
             </div>
           </div>
           <div class="prot-card" style="height:auto;cursor:default">
             <div class="prot-card__price" style="gap:12px">
-              <img src="/vida-proteccion-creditos/Iconos/Latido.png" alt="" style="width:40px;height:40px">
+              <img src="/vida-proteccion-creditos/Iconos/Latido.svg" alt="" style="width:40px;height:40px">
               <span class="prot-card__title" style="font-size:18px">Incapacidad total</span>
               <span class="prot-card__period">Si quedas en incapacidad total y permanente, también se cubre tu deuda.</span>
             </div>
           </div>
           <div class="prot-card" style="height:auto;cursor:default">
             <div class="prot-card__price" style="gap:12px">
-              <img src="/vida-proteccion-creditos/Iconos/Group 5726.png" alt="" style="width:40px;height:40px">
+              <img src="/vida-proteccion-creditos/Iconos/Group 5726.svg" alt="" style="width:40px;height:40px">
               <span class="prot-card__title" style="font-size:18px">Desde $37.500/mes</span>
               <span class="prot-card__period">Prima accesible que se ajusta al valor de tu crédito y tu edad.</span>
             </div>
@@ -234,7 +234,7 @@
                 <label class="cd-field__label">¿En qué banco tienes tu crédito?</label>
                 <div class="vc-autocomplete">
                   <div class="cd-input">
-                    <img src="/vida-proteccion-creditos/Iconos/Name-icon (6).png" alt="" class="cd-input__icon">
+                    <img src="/vida-proteccion-creditos/Iconos/Name-icon (6).svg" alt="" class="cd-input__icon">
                     <input type="text" id="vc-bank" placeholder="Escribe el nombre de tu banco" autocomplete="off">
                   </div>
                   <div class="vc-autocomplete__list" id="vc-bank-list">
@@ -247,7 +247,7 @@
               <div class="cd-field">
                 <label class="cd-field__label">¿Cuánto debes actualmente?</label>
                 <div class="cd-input">
-                  <img src="/vida-proteccion-creditos/Iconos/copy.png" alt="" class="cd-input__icon">
+                  <img src="/vida-proteccion-creditos/Iconos/copy.svg" alt="" class="cd-input__icon">
                   <input type="text" id="vc-debt" inputmode="numeric" placeholder="$50.000.000">
                 </div>
               </div>
@@ -269,7 +269,7 @@
             <!-- RECUADRO DE COTIZACIÓN (live) -->
             <aside class="cd-quote">
               <div class="cd-quote__badge">
-                <img src="/vida-proteccion-creditos/Iconos/shield-dog.png" alt="" onerror="this.style.display='none'">
+                <img src="/vida-proteccion-creditos/Iconos/shield-dog.svg" alt="" onerror="this.style.display='none'">
                 <span>Cotización</span>
               </div>
               <p class="cd-quote__label">Prima estimada mensual</p>
@@ -362,17 +362,17 @@
               <!-- Coverages -->
               <div class="vc-quote-card__coverages">
                 <div class="vc-quote-coverage">
-                  <img src="/vida-proteccion-creditos/Iconos/name-icon (8).png" alt="" class="vc-quote-coverage__icon">
+                  <img src="/vida-proteccion-creditos/Iconos/name-icon (8).svg" alt="" class="vc-quote-coverage__icon">
                   <span class="vc-quote-coverage__text">Muerte por cualquier causa</span>
                   <span class="vc-quote-coverage__value">${b(u)}</span>
                 </div>
                 <div class="vc-quote-coverage">
-                  <img src="/vida-proteccion-creditos/Iconos/name-icon (8).png" alt="" class="vc-quote-coverage__icon">
+                  <img src="/vida-proteccion-creditos/Iconos/name-icon (8).svg" alt="" class="vc-quote-coverage__icon">
                   <span class="vc-quote-coverage__text">Incapacidad total y permanente</span>
                   <span class="vc-quote-coverage__value">${b(u)}</span>
                 </div>
                 <div class="vc-quote-coverage">
-                  <img src="/vida-proteccion-creditos/Iconos/name-icon (8).png" alt="" class="vc-quote-coverage__icon">
+                  <img src="/vida-proteccion-creditos/Iconos/name-icon (8).svg" alt="" class="vc-quote-coverage__icon">
                   <span class="vc-quote-coverage__text">Beneficiario: ${d}</span>
                   <span class="vc-quote-coverage__value">100%</span>
                 </div>
@@ -384,7 +384,7 @@
                 <div style="display:flex;gap:12px;width:100%">
                   <button class="prot-btn prot-btn--ghost prot-btn--pill" id="qt-save" style="flex:1;font-size:13px">Guardar y decidir después</button>
                   <button class="prot-btn prot-btn--ghost prot-btn--pill" id="qt-pdf" style="flex:1;font-size:13px">
-                    <img src="/vida-proteccion-creditos/Iconos/download.png" alt="" style="width:16px;height:16px"> Descargar PDF
+                    <img src="/vida-proteccion-creditos/Iconos/download.svg" alt="" style="width:16px;height:16px"> Descargar PDF
                   </button>
                 </div>
               </div>
@@ -404,7 +404,7 @@
             <h2 class="otp-modal__title">Verifica tu identidad</h2>
             <p class="otp-modal__subtitle">Enviamos un código a:</p>
             <div class="otp-modal__phone">
-              <img src="/vida-proteccion-creditos/Iconos/mobile-button.png" alt="" class="otp-modal__phone-icon">
+              <img src="/vida-proteccion-creditos/Iconos/mobile-button.svg" alt="" class="otp-modal__phone-icon">
               <span class="otp-modal__phone-number">*** *** ${h}</span>
             </div>
           </div>
@@ -412,7 +412,7 @@
             <label class="otp-modal__label">Ingresa el código de 6 dígitos:</label>
             <div class="otp-modal__input-wrapper">
               <input type="text" id="otp-input" class="otp-modal__input" placeholder="Ej: 111111" maxlength="6">
-              <img src="/vida-proteccion-creditos/Iconos/keyboard.png" alt="" class="otp-modal__keyboard-icon">
+              <img src="/vida-proteccion-creditos/Iconos/keyboard.svg" alt="" class="otp-modal__keyboard-icon">
             </div>
             <span class="otp-modal__help">El código estará activo por 80 segundos</span>
           </div>
@@ -430,14 +430,14 @@
       <div class="otp-overlay" id="success-overlay">
         <div class="otp-success-modal">
           <div class="otp-success__icon">
-            <img src="/vida-proteccion-creditos/Iconos/shield-dog (1).png" alt="" class="otp-success__pictogram">
+            <img src="/vida-proteccion-creditos/Iconos/shield-dog (1).svg" alt="" class="otp-success__pictogram">
           </div>
           <div class="otp-success__body">
             <h2 class="otp-success__title">Identidad verificada</h2>
             <p class="otp-success__text">Preparando tu solicitud...</p>
           </div>
           <div class="otp-success__spinner">
-            <img src="/vida-proteccion-creditos/Iconos/Ellipse 350.png" alt="" class="otp-success__spinner-img">
+            <img src="/vida-proteccion-creditos/Iconos/Ellipse 350.svg" alt="" class="otp-success__spinner-img">
           </div>
         </div>
       </div>
@@ -497,7 +497,7 @@
             <div class="vc-collapsible vc-collapsible--open" id="sec-personal">
               <div class="vc-collapsible__header">
                 <div class="vc-collapsible__title">
-                  <img src="/vida-proteccion-creditos/Iconos/user.png" alt="">
+                  <img src="/vida-proteccion-creditos/Iconos/user.svg" alt="">
                   <span>Datos personales</span>
                 </div>
                 <img src="/vida-proteccion-creditos/Iconos/angle-left.svg" alt="" class="vc-collapsible__chevron">
@@ -565,7 +565,7 @@
             <div class="vc-collapsible" id="sec-beneficiaries">
               <div class="vc-collapsible__header">
                 <div class="vc-collapsible__title">
-                  <img src="/vida-proteccion-creditos/Iconos/Group 7272.png" alt="">
+                  <img src="/vida-proteccion-creditos/Iconos/Group 7272.svg" alt="">
                   <span>Beneficiarios</span>
                 </div>
                 <img src="/vida-proteccion-creditos/Iconos/angle-left.svg" alt="" class="vc-collapsible__chevron">
@@ -573,7 +573,7 @@
               <div class="vc-collapsible__body">
                 <!-- Auto beneficiary (bank) -->
                 <div class="vc-beneficiary-auto">
-                  <img src="/vida-proteccion-creditos/Iconos/shield-dog.png" alt="" class="vc-beneficiary-auto__icon">
+                  <img src="/vida-proteccion-creditos/Iconos/shield-dog.svg" alt="" class="vc-beneficiary-auto__icon">
                   <span class="vc-beneficiary-auto__text"><strong>${e}</strong> recibe el ${m}% del valor asegurado (equivalente a tu deuda).</span>
                 </div>
 
@@ -604,7 +604,7 @@
             <div class="vc-collapsible" id="sec-credit">
               <div class="vc-collapsible__header">
                 <div class="vc-collapsible__title">
-                  <img src="/vida-proteccion-creditos/Iconos/copy.png" alt="">
+                  <img src="/vida-proteccion-creditos/Iconos/copy.svg" alt="">
                   <span>Número de crédito</span>
                 </div>
                 <img src="/vida-proteccion-creditos/Iconos/angle-left.svg" alt="" class="vc-collapsible__chevron">
@@ -662,7 +662,7 @@
 
           <div class="hs-wrapper">
             <div class="hs-title-row">
-              <img src="${ae}/Iconos/Latido.png" alt="" class="hs-title-icon" onerror="this.style.display='none'">
+              <img src="${ae}/Iconos/Latido.svg" alt="" class="hs-title-icon" onerror="this.style.display='none'">
               <h1 class="hs-title">Declaración de salud</h1>
             </div>
 
@@ -763,7 +763,7 @@
     </div>
     ${o.important?`
       <div class="hs-important">
-        <img src="${ae}/Iconos/info-circle.png" alt="" class="hs-important__icon" onerror="this.style.display='none'">
+        <img src="${ae}/Iconos/info-circle.svg" alt="" class="hs-important__icon" onerror="this.style.display='none'">
         <div class="hs-important__text">
           <span class="hs-important__label">Importante</span>
           <p>${o.important}</p>
@@ -807,7 +807,7 @@
                 <div style="flex:1;min-width:280px">
                   <div class="conf-plan">
                     <div class="conf-plan__header">
-                      <img src="/vida-proteccion-creditos/Iconos/shield-dog.png" alt="" class="conf-plan__icon">
+                      <img src="/vida-proteccion-creditos/Iconos/shield-dog.svg" alt="" class="conf-plan__icon">
                       <span class="conf-plan__name">Vida Protección Créditos</span>
                     </div>
                     <div class="conf-plan__details">
@@ -818,8 +818,8 @@
                     </div>
                     <div style="display:flex;flex-direction:column;gap:8px;margin-top:12px">
                       <span style="font-size:12px;font-weight:600;color:#0B613E">Coberturas incluidas:</span>
-                      <div style="display:flex;align-items:center;gap:8px"><img src="/vida-proteccion-creditos/Iconos/name-icon (8).png" alt="" style="width:16px"><span style="font-size:13px;color:#303030">Muerte por cualquier causa</span></div>
-                      <div style="display:flex;align-items:center;gap:8px"><img src="/vida-proteccion-creditos/Iconos/name-icon (8).png" alt="" style="width:16px"><span style="font-size:13px;color:#303030">Incapacidad total y permanente</span></div>
+                      <div style="display:flex;align-items:center;gap:8px"><img src="/vida-proteccion-creditos/Iconos/name-icon (8).svg" alt="" style="width:16px"><span style="font-size:13px;color:#303030">Muerte por cualquier causa</span></div>
+                      <div style="display:flex;align-items:center;gap:8px"><img src="/vida-proteccion-creditos/Iconos/name-icon (8).svg" alt="" style="width:16px"><span style="font-size:13px;color:#303030">Incapacidad total y permanente</span></div>
                     </div>
                   </div>
                 </div>
@@ -827,7 +827,7 @@
                 <!-- Right: User data -->
                 <div style="flex:1;min-width:280px">
                   <div class="conf-data-card">
-                    <div class="conf-data-card__header"><img src="/vida-proteccion-creditos/Iconos/user.png" alt="" class="conf-data-card__icon"><span class="conf-data-card__title">Tus datos</span></div>
+                    <div class="conf-data-card__header"><img src="/vida-proteccion-creditos/Iconos/user.svg" alt="" class="conf-data-card__icon"><span class="conf-data-card__title">Tus datos</span></div>
                     <div class="conf-data-card__rows">
                       <div class="conf-data-row"><span class="conf-data-row__label">Nombre:</span><span class="conf-data-row__value">${c}</span></div>
                       <div class="conf-data-row"><span class="conf-data-row__label">Cédula:</span><span class="conf-data-row__value">${u}</span></div>
@@ -904,7 +904,7 @@
       <div class="success-content">
         <div class="success-card">
           <div class="success-card__header">
-            <img src="/vida-proteccion-creditos/Iconos/shield-dog (1).png" alt="" class="success-card__icon">
+            <img src="/vida-proteccion-creditos/Iconos/shield-dog (1).svg" alt="" class="success-card__icon">
             <span class="success-card__title">Detalles de tu póliza</span>
           </div>
           <div class="success-card__details">
@@ -917,13 +917,13 @@
           <div class="success-card__divider"></div>
           <div class="success-card__approval">
             <div class="success-card__approval-label">
-              <img src="/vida-proteccion-creditos/Iconos/name-icon (8).png" alt="" class="success-card__approval-icon">
+              <img src="/vida-proteccion-creditos/Iconos/name-icon (8).svg" alt="" class="success-card__approval-icon">
               <span>Número de aprobación de la compra</span>
             </div>
             <div class="success-card__approval-code">
               <span class="success-card__code">${Math.floor(1e10+Math.random()*9e10)}</span>
               <button class="success-card__copy" id="vc-copy">
-                <img src="/vida-proteccion-creditos/Iconos/copy.png" alt="" class="success-card__copy-icon">
+                <img src="/vida-proteccion-creditos/Iconos/copy.svg" alt="" class="success-card__copy-icon">
                 <span>Copiar</span>
               </button>
             </div>
